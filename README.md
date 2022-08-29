@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sGriz
+- 👋 Hi, I’m Sam
 - 👀 I’m interested in web dev, database management, networking, and game dev
-- 🌱 I’m currently learning MongoDB, Express, React, Nodejs
+- 🌱 I’m currently learning the Next.js framework
 - 💞️ I’m looking to collaborate on anything and everything!
 - 📫 Contact me: sgryzz@gmail.com
 
