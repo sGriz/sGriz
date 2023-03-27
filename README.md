@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Sam
-- 👀 I’m interested in web dev, database management, networking, and game dev
+- 👋 Hi, I’m Sam!
+- 👀 I'm interested in full stack web development, database & network design, game development, and machine learning
 - 🌱 I’m currently learning the Next.js framework
 - 💞️ I’m looking to collaborate on anything and everything!
 - 📫 Contact me: sgryzz@gmail.com
